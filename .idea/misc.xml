@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginApp/app/src/main/res/layout/activity_edit_user.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginApp/app/src/main/res/layout/activity_list_user.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginApp/app/src/main/res/layout/activity_login.xml" value="0.13360507246376813" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginApp/app/src/main/res/layout/activity_main.xml" value="0.13360507246376813" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginApp/app/src/main/res/layout/activity_profile.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginApp/app/src/main/res/layout/activity_update.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginApp/app/src/main/res/layout/item_contact.xml" value="0.2015625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginApp/app/src/main/res/layout/item_user.xml" value="0.1094224924012158" />
       </map>
     </option>
   </component>
